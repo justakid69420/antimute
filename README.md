@@ -1,0 +1,2 @@
+# antimute
+blurs curse words!
